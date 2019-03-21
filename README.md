@@ -31,7 +31,7 @@ GIF created using LICEcap
 
 VIDEO #2
 
-<img src=''/>
+<img src='https://imgur.com/V3qPUVW.gif'/>
 
 GIF created using LICEcap
 
