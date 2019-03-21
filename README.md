@@ -25,11 +25,18 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+VIDEO #1
+
+* Users can see app icon in home screen and styled launched screen
+
 <img src='https://imgur.com/IMjd3XB.gif'/>
 
 GIF created using LICEcap
 
 VIDEO #2
+
+* Users can Sign up, Log In and upload pictures with a caption to the Parse Server
+* Users can view upto last 20 posts 
 
 <img src='https://imgur.com/V3qPUVW.gif'/>
 
