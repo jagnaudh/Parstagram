@@ -25,7 +25,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=''/>
+<img src='https://imgur.com/IMjd3XB.gif'/>
 
 GIF created using LICEcap
 
