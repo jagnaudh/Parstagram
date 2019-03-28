@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4908A5F8224D20A200461E22 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4908A5F7224D20A200461E22 /* CommentCell.swift */; };
 		496D237C2244194C00253712 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496D237B2244194C00253712 /* AppDelegate.swift */; };
 		496D23812244194C00253712 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 496D237F2244194C00253712 /* Main.storyboard */; };
 		496D23832244194D00253712 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 496D23822244194D00253712 /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 
 /* Begin PBXFileReference section */
 		408322F4B8DE8153F11680E6 /* Pods-ParstagramTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParstagramTests.release.xcconfig"; path = "Target Support Files/Pods-ParstagramTests/Pods-ParstagramTests.release.xcconfig"; sourceTree = "<group>"; };
+		4908A5F7224D20A200461E22 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		496D23782244194C00253712 /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		496D237B2244194C00253712 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		496D23802244194C00253712 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				496D23AF2244218500253712 /* FeedViewController.swift */,
 				496D23B1224429E600253712 /* CameraViewController.swift */,
 				496D23B322443C7F00253712 /* PostCell.swift */,
+				4908A5F7224D20A200461E22 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -395,6 +398,7 @@
 				496D23B02244218500253712 /* FeedViewController.swift in Sources */,
 				496D237C2244194C00253712 /* AppDelegate.swift in Sources */,
 				496D23B422443C7F00253712 /* PostCell.swift in Sources */,
+				4908A5F8224D20A200461E22 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
