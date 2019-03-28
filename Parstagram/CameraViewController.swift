@@ -10,6 +10,7 @@ import UIKit
 import AlamofireImage
 import Parse
 import Alamofire
+import MessageInputBar
 
 class CameraViewController: UIViewController,  UIImagePickerControllerDelegate, UINavigationControllerDelegate {
     
